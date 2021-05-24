@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47204249954",
+    "firebase_url": "https://recruitment-backend.firebaseio.com",
+    "project_id": "recruitment-backend",
+    "storage_bucket": "recruitment-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47204249954:android:d35cc4b514a9d43111fc3b",
+        "android_client_info": {
+          "package_name": "com.example.recruitment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47204249954-4j4n55ljd9nee570ord9824hem7voqvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAudWmxnqH7nGpJpTZR9ZmAyfQJZPUc-h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47204249954-4j4n55ljd9nee570ord9824hem7voqvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47204249954-a8k0pf6h2njfknsp1jfi3ipiupr8sm1q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.recruitment-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

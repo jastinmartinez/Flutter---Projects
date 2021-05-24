@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>47204249954-a8k0pf6h2njfknsp1jfi3ipiupr8sm1q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.47204249954-a8k0pf6h2njfknsp1jfi3ipiupr8sm1q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6iAbODJtJQxCrn_xUZWePKwAsYtMaTMA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>47204249954</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.recruitment-app</string>
+	<key>PROJECT_ID</key>
+	<string>recruitment-backend</string>
+	<key>STORAGE_BUCKET</key>
+	<string>recruitment-backend.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:47204249954:ios:3c8ca020a2a0454411fc3b</string>
+	<key>DATABASE_URL</key>
+	<string>https://recruitment-backend.firebaseio.com</string>
+</dict>
+</plist>
